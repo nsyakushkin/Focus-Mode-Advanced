@@ -1,0 +1,11 @@
+{
+	"id": "sample-plugin",
+	"name": "Focus Mode [Advanced]",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Плагин Focus Mode [Advanced] помогает максимально сосредоточиться на текущей задаче, минимизируя отвлекающие факторы. Он сочетает в себе функции темной комнаты, таймера Pomodoro, а также дополнительные инструменты для повышения продуктивности.",
+	"author": "Basarab_Yakishkin",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
